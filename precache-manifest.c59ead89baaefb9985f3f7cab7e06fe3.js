@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0f7ee79f24ee68ab33cfea9c17d8254",
+    "revision": "43335a0128677284f6bc8cb21a00c8f2",
     "url": "/gitamc/index.html"
   },
   {
-    "revision": "abc0ba799236dc51f5d9",
+    "revision": "a70963a6478655393568",
     "url": "/gitamc/static/css/2.b95e1924.chunk.css"
   },
   {
-    "revision": "ccac2627a8fb18b20cca",
+    "revision": "076cdf1e9688e982d86c",
     "url": "/gitamc/static/css/main.0f758607.chunk.css"
   },
   {
-    "revision": "abc0ba799236dc51f5d9",
-    "url": "/gitamc/static/js/2.f129436a.chunk.js"
+    "revision": "a70963a6478655393568",
+    "url": "/gitamc/static/js/2.2abd8c9e.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/gitamc/static/js/2.f129436a.chunk.js.LICENSE.txt"
+    "url": "/gitamc/static/js/2.2abd8c9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ccac2627a8fb18b20cca",
-    "url": "/gitamc/static/js/main.64bf0728.chunk.js"
+    "revision": "076cdf1e9688e982d86c",
+    "url": "/gitamc/static/js/main.d1a6d23e.chunk.js"
   },
   {
     "revision": "9c481832f22f9416b6d9",
